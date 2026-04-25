@@ -2,7 +2,7 @@
 
 A comprehensive data analytics project built to provide actionable intelligence for a regional electrical utility company, tracking the rapid integration of Electric Vehicles (EVs) in Washington State and measuring its subsequent impact on the municipal electricity grid.
 
-![Tableau Dashboard Preview](dashboard/dashboard.png)
+![Tableau Dashboard Preview](dashboard/Dashboard.png)
 
 ---
 
